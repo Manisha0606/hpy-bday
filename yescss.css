@@ -1,0 +1,33 @@
+*{
+    box-sizing: border-box;
+}
+body{
+    margin: 0%;
+    padding: 0%;
+    background: linear-gradient(rgb(20, 235, 77),rgb(155, 244, 155),rgb(35, 235, 35));
+}
+.header{
+    width: 100%;
+    height: 90px;
+    background: linear-gradient(rgb(240, 143, 73),yellow);
+}
+.fa fa-heart{
+    display: inline-block;
+    margin-left: 40px;
+}
+.header h1{
+    display: inline-block;
+    padding-left: 20px;
+    font-family: 'Playball', cursive;
+    color:
+}
+#sy{
+    
+    margin-top: 160px;
+    margin-left: 210px;
+}
+#h1{
+    margin-left: 40%;
+    font-size: 40px;
+    margin-top: 80px;
+}
